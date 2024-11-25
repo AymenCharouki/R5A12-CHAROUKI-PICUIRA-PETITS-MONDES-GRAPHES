@@ -1,0 +1,5 @@
+requests
+networkx
+netwulf
+pandas
+ipywidgets
